@@ -18,12 +18,12 @@ Desenvolvedor Backend
 ### Tecnologias que uso
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Kotlin-ED5050?style=for-the-badge&logo=Kotlin&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src = "https://img.shields.io/badge/oracle-apex-blue?style=for-the-badge&logo=oracle&logoColor=red">
-  <img src = "https://img.shields.io/badge/Kotlin-ED5050?style=for-the-badge&logo=Kotlin&logoColor=black">
   <img src = "https://img.shields.io/badge/Oracle-SQL-green?style=for-the-badge&logo=Oracle&logoColor=red">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 ### Meus interesses 
