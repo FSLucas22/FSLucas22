@@ -3,12 +3,10 @@
 ## Eu sou Lucas Ferreira
 Desenvolvedor Backend 
 
-#### Contate-me
+### Contate-me 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/fs_lucas22) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-ferreira-dos-santos-4918bb22a/)
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/fs_lucas22)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-ferreira-dos-santos-4918bb22a/)
-
-##
+## 
 
 <div align="center">
 <a href="https://github.com/FSLucas22">
@@ -17,8 +15,7 @@ Desenvolvedor Backend
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSLucas22&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=1,16537e,000000&title_color=fff&text_color=fff&border_radius=0"/>
 </div>
 
-##
-#### Tecnologias
+### Tecnologias que uso
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,6 +26,5 @@ Desenvolvedor Backend
   <img src = "https://img.shields.io/badge/Oracle-SQL-green?style=for-the-badge&logo=Oracle&logoColor=red">
 </div>
 
-##
-### Interesses 
+### Meus interesses 
 🌱 Atualmente aprendendo Spring, Kotlin, Docker, TDD e Design de APIs REST.
